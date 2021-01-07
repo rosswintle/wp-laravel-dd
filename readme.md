@@ -7,6 +7,10 @@ Tested up to: 5.5.0
 License: MIT
 License URI: https://mit-license.org/
 
+== DEPRECATED ==
+
+Use [@timnashcouk's fork](https://github.com/timnashcouk/wp-debug-helpers) instead.
+
 Use Laravel's `dd()` (die dump) function in your Wordpress projects. Perfect for debuging custom queries!
 
 == Description ==
